@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/silis-react-portfolio/static/css/main.7c4b222e.css",
-    "main.js": "/silis-react-portfolio/static/js/main.850251dc.js",
+    "main.js": "/silis-react-portfolio/static/js/main.f9e9b97f.js",
     "static/js/787.b361c2ce.chunk.js": "/silis-react-portfolio/static/js/787.b361c2ce.chunk.js",
     "index.html": "/silis-react-portfolio/index.html",
     "main.7c4b222e.css.map": "/silis-react-portfolio/static/css/main.7c4b222e.css.map",
-    "main.850251dc.js.map": "/silis-react-portfolio/static/js/main.850251dc.js.map",
+    "main.f9e9b97f.js.map": "/silis-react-portfolio/static/js/main.f9e9b97f.js.map",
     "787.b361c2ce.chunk.js.map": "/silis-react-portfolio/static/js/787.b361c2ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c4b222e.css",
-    "static/js/main.850251dc.js"
+    "static/js/main.f9e9b97f.js"
   ]
 }
